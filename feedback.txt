@@ -1,0 +1,5 @@
+-Waarom heb je 2 registratie documenten?
+-Probeer alles in het Nederlands te zetten zodat het lijkt alsof je het zelf hebt gemaakt ;)
+-Verander de stijl ook zodat het origineel lijkt.
+-sqli is wel verouderd probeer volgende keer PDO te gebruiken.
+-Alles werkt prima verder.
